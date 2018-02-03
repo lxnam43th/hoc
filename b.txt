@@ -1,11 +1,17 @@
 namlx1
 namlx2
-<<<<<<< HEAD
+3.namlx3
+1.nam4
 2.1
 2.2
 =======
-3.namlx3
-1.nam4
+
+<<<<<<< .mine
 >>>>>>> a490f9eed4be16b8f4868b1ccc30e472c204fbde
 2.3
 2.4
+=======
+3.3
+
+
+>>>>>>> .theirs
