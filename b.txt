@@ -1,32 +1,43 @@
 namlx1
+bbbbbbbbbbbbbbbbbbbbbbbb
 namlx2
 3.namlx3
 1.nam4
 chua sua 1
 2.1
+bbbbbbbbbbbbbbbbbbbbbfffffffffff
 2.2
 2.3
 chua sua 1
 333333333333333333333
 555555555555555555555
+44444444ggggggggggggggggggggg
 2.4
 chua sua 1
 3.3
 3.4
+<<<<<<< HEAD
 chua sua 1
+=======
+gssfsdfsfsdfsdfsdfsdfsdsfsf
+>>>>>>> 7886a5587dc918981ef50fa4e7b35d36be322f7c
 3.52.2.1
 2.2.22.2.1
 namlx2
 333333333
 3333333333333
+fsfsdfdddddddddddddd
 333333333333333333333
 chua sua 1
 rrrrrrrrrrrrrrrrrrrrrrrrr
+lxnam432thfsfssda
 55555555555555555555555555555
 chua sua 1
 namlx2555555555555555555555
+fsdffsdfsdfsdfsdfsdfsdfsfsdfsf
 333333333333333
 3333333333333
+fsfsdfsfsdfsdfsdfsdfsddsfsdfsdfsd
 da sua
 ddddddddddddddddddffffffff
 123
@@ -34,5 +45,10 @@ chua sua 1
 dddddddddddddddddddddddddd
 chua sua 1
 xong333333333333333
+<<<<<<< .mine
+fsdfsdfsdfsfsdfsdfdsfsdfsdf
+
+=======
 3333333333
 4444444444444444444444
+>>>>>>> .theirs
