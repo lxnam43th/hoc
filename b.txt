@@ -30,6 +30,14 @@ fsdffsdfsdfsdfsdfsdfsdfsfsdfsf
 3333333333333
 fsfsdfsfsdfsdfsdfsdfsddsfsdfsdfsd
 da sua
+ddddddddddddddddddffffffff
 123
+dddddddddddddddddddddddddd
 xong333333333333333
+<<<<<<< .mine
 fsdfsdfsdfsfsdfsdfdsfsdfsdf
+
+=======
+3333333333
+4444444444444444444444
+>>>>>>> .theirs
